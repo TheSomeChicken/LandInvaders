@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T22:30:44.800Z" agent="5.0 (Windows)" etag="8_pURzlMYGOmgvofVqft" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T23:41:06.507Z" agent="5.0 (Windows)" etag="-ArnaWObHE0vlUXSMuom" version="15.0.2" type="github">
   <diagram id="CVMTndMfb1_CYvGRXAgP" name="Page-1">
-    <mxGraphModel dx="1999" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="500" math="0" shadow="0">
+    <mxGraphModel dx="9995" dy="5260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="1190" y="890" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="860" width="480" height="100" as="geometry" />
+          <mxGeometry x="1710" y="870" width="480" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-9" value="Enemy Type #3 (Range)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1750" y="800" width="30" height="60" as="geometry" />
@@ -197,6 +197,9 @@
         <mxCell id="uomXH_82EVlErH10DqCl-61" value="" style="swimlane;startSize=0;strokeColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="5750" y="800" width="530" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="uomXH_82EVlErH10DqCl-100" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="uomXH_82EVlErH10DqCl-61">
+          <mxGeometry x="340" y="70" width="140" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-62" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#CC00CC;" vertex="1" parent="uomXH_82EVlErH10DqCl-61">
           <mxGeometry x="380" y="80" width="120" height="80" as="geometry" />
         </mxCell>
@@ -204,10 +207,10 @@
           <mxGeometry x="2060" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="800" width="120" height="160" as="geometry" />
+          <mxGeometry x="2670" y="790" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-65" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="880" width="120" height="80" as="geometry" />
+          <mxGeometry x="2550" y="870" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-66" value="Enemy Type #2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="7400" y="900" width="30" height="60" as="geometry" />
@@ -324,7 +327,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-90" value="" style="swimlane;startSize=0;strokeColor=#CC00CC;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="530" width="1740" height="450" as="geometry" />
+          <mxGeometry x="2960" y="530" width="1820" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="uomXH_82EVlErH10DqCl-101" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="uomXH_82EVlErH10DqCl-90">
+          <mxGeometry x="1400" y="340" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uomXH_82EVlErH10DqCl-102" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="uomXH_82EVlErH10DqCl-90">
+          <mxGeometry x="1460" y="250" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uomXH_82EVlErH10DqCl-91" value="" style="swimlane;startSize=0;strokeColor=#CC00CC;" vertex="1" parent="1">
           <mxGeometry x="6790" y="520" width="1740" height="480" as="geometry" />
